@@ -3,10 +3,13 @@ import { Switch, Route, BrowserRouter } from "react-router-dom";
 import { Main, Intro, Member, Project, NotFound } from "./pages";
 import './App.css';
 
+import NavigatorBar from "./pages/public/Navigator"
+
 class App extends Component {
   render() {
     return (
       <div className="root">
+        <NavigatorHead></NavigatorHead>
         <BrowserRouter>
           <Switch>
             <Route path="/" exact={true} component={Main} />
@@ -17,7 +20,19 @@ class App extends Component {
           </Switch>
         </BrowserRouter>
       </div>
-    );
+    )
+  }
+}
+
+class NavigatorHead extends Component {
+  render() {
+    return (
+      <div className="header">
+        <ul className="tabsContainer">
+          {NavigatorBar}
+        </ul>
+      </div>
+    )
   }
 }
 

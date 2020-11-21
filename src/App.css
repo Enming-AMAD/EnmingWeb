@@ -1,0 +1,19 @@
+.header {
+    background-color: #3b3838;
+}
+.tab {
+    color: white;
+    font-size: 23px;
+    margin-left: 7%;
+}
+.tabsContainer {
+    display: flex;
+    flex-direction: row;
+}
+.tabsContainer > li {
+    list-style: none;
+    margin-right: 30px;
+    overflow: hidden;
+    height: 45px;
+    text-align: center;
+}
