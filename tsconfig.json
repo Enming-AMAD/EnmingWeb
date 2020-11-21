@@ -18,7 +18,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react",
-    "noFallthroughCasesInSwitch": true // 이거
+    "noFallthroughCasesInSwitch": true
   },
   "include": [
     "src"
