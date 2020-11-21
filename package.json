@@ -2,7 +2,7 @@
   "name": "enmingweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://enming-amad.github.io/enmingweb",
+  "homepage": "https://enming.dacon.xyz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.1",
