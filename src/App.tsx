@@ -3,6 +3,8 @@ import { Switch, Route, BrowserRouter } from "react-router-dom";
 import { Main, Intro, Member, Project, NotFound } from "./pages";
 import './App.css';
 
+import logo from "./images/logo.png"
+
 import NavigatorBar from "./pages/public/Navigator"
 
 class App extends Component {
@@ -28,6 +30,7 @@ class NavigatorHead extends Component {
   render() {
     return (
       <div className="header">
+        <img className="logo" alt="" src={logo} />
         <ul className="tabsContainer">
           {NavigatorBar}
         </ul>

@@ -1,8 +1,6 @@
-import React, { Component } from 'react'
-import logo from "../../images/logo.png"
+import React from 'react'
 
 const names = [
-    <img alt="" src={logo} />,
     <span className="tab">홈</span>,
     <span className="tab">소개</span>,
     <span className="tab">멤버</span>,

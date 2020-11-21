@@ -1,10 +1,32 @@
+@font-face {
+  font-family: 'Font1';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/NIXGONFONTS.TTF') format('truetype')
+}
+body {
+    font-family: 'Font1';
+}
+.root {
+    background-color: #262626;
+    height: calc(100vh);
+    color: white;
+}
+
 .header {
     background-color: #3b3838;
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+
+    padding-left: calc(34vw - 130px);
+}
+.logo {
+    height: 50px;
 }
 .tab {
     color: white;
-    font-size: 23px;
-    margin-left: 7%;
+    font-size: 22px;
 }
 .tabsContainer {
     display: flex;
@@ -12,8 +34,7 @@
 }
 .tabsContainer > li {
     list-style: none;
-    margin-right: 30px;
-    overflow: hidden;
-    height: 45px;
-    text-align: center;
+    padding-left: 5vw;
+    height: 50px;
+    padding-top: 13px;
 }
