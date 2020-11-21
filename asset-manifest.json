@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bab0b925.chunk.css",
-    "main.js": "/static/js/main.b68b1b2d.chunk.js",
-    "main.js.map": "/static/js/main.b68b1b2d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2195d87a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2195d87a.js.map",
-    "static/js/2.668cf2f4.chunk.js": "/static/js/2.668cf2f4.chunk.js",
-    "static/js/2.668cf2f4.chunk.js.map": "/static/js/2.668cf2f4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.668cf2f4.chunk.js.LICENSE.txt": "/static/js/2.668cf2f4.chunk.js.LICENSE.txt"
+    "main.css": "/enmingweb/static/css/main.bab0b925.chunk.css",
+    "main.js": "/enmingweb/static/js/main.b68b1b2d.chunk.js",
+    "main.js.map": "/enmingweb/static/js/main.b68b1b2d.chunk.js.map",
+    "runtime-main.js": "/enmingweb/static/js/runtime-main.77c8f325.js",
+    "runtime-main.js.map": "/enmingweb/static/js/runtime-main.77c8f325.js.map",
+    "static/js/2.668cf2f4.chunk.js": "/enmingweb/static/js/2.668cf2f4.chunk.js",
+    "static/js/2.668cf2f4.chunk.js.map": "/enmingweb/static/js/2.668cf2f4.chunk.js.map",
+    "index.html": "/enmingweb/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/enmingweb/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.668cf2f4.chunk.js.LICENSE.txt": "/enmingweb/static/js/2.668cf2f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2195d87a.js",
+    "static/js/runtime-main.77c8f325.js",
     "static/js/2.668cf2f4.chunk.js",
     "static/css/main.bab0b925.chunk.css",
     "static/js/main.b68b1b2d.chunk.js"
