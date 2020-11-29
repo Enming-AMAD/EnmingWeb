@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2eec2cd7.chunk.css",
-    "main.js": "/static/js/main.a2bdc479.chunk.js",
-    "main.js.map": "/static/js/main.a2bdc479.chunk.js.map",
+    "main.css": "/static/css/main.810dd95d.chunk.css",
+    "main.js": "/static/js/main.d9f675c4.chunk.js",
+    "main.js.map": "/static/js/main.d9f675c4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2195d87a.js",
     "runtime-main.js.map": "/static/js/runtime-main.2195d87a.js.map",
-    "static/js/2.898e8d85.chunk.js": "/static/js/2.898e8d85.chunk.js",
-    "static/js/2.898e8d85.chunk.js.map": "/static/js/2.898e8d85.chunk.js.map",
+    "static/js/2.0d7e6efd.chunk.js": "/static/js/2.0d7e6efd.chunk.js",
+    "static/js/2.0d7e6efd.chunk.js.map": "/static/js/2.0d7e6efd.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2eec2cd7.chunk.css.map": "/static/css/main.2eec2cd7.chunk.css.map",
-    "static/js/2.898e8d85.chunk.js.LICENSE.txt": "/static/js/2.898e8d85.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/NIXGONFONTS.c7199047.TTF"
+    "static/css/main.810dd95d.chunk.css.map": "/static/css/main.810dd95d.chunk.css.map",
+    "static/js/2.0d7e6efd.chunk.js.LICENSE.txt": "/static/js/2.0d7e6efd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/NIXGONFONTS.2141236d.TTF"
   },
   "entrypoints": [
     "static/js/runtime-main.2195d87a.js",
-    "static/js/2.898e8d85.chunk.js",
-    "static/css/main.2eec2cd7.chunk.css",
-    "static/js/main.a2bdc479.chunk.js"
+    "static/js/2.0d7e6efd.chunk.js",
+    "static/css/main.810dd95d.chunk.css",
+    "static/js/main.d9f675c4.chunk.js"
   ]
 }
