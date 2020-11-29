@@ -11,8 +11,8 @@ class App extends Component {
   render() {
     return (
       <div className="root">
-        <NavigatorHead></NavigatorHead>
         <BrowserRouter>
+          <NavigatorHead></NavigatorHead>
           <Switch>
             <Route path="/" exact={true} component={Main} />
             <Route path="/intro/" exact={true} component={Intro} />
