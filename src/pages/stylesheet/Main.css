@@ -1,0 +1,32 @@
+.slogans {
+    margin-top: 8.5vh;
+}
+
+.slogan {
+    font-size: 5vw;
+    font-weight: bolder;
+
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.sloganImage {
+    padding-left: calc(35vw);
+    width: 28vw;
+}
+
+.topSlogan {
+    background: linear-gradient(to right, white, #04e5b7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bottomSlogan {
+    text-align: right;
+
+    background: linear-gradient(to right, #0d7fdf, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
