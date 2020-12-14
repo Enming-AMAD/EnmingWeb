@@ -1,0 +1,34 @@
+.introduce {
+    text-align: center;
+
+    height: calc(65vh - 50px);
+
+    padding-top: 35vh;
+    padding-left: 15px;
+    font-size: 78px;
+    font-weight: bold;
+
+    background: linear-gradient(to right, #12d64f, #f8ef42);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bottom {
+    background-color: #262626;
+    height: 100vh;
+}
+
+.information {
+    font-size: 58px;
+    font-weight: bold;
+    padding-left: 15px;
+    padding-top: 10vh;
+
+    background: linear-gradient(to right, #07E5B8, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.description {
+    
+}
