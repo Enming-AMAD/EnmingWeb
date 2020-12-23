@@ -1,3 +1,14 @@
+@keyframes appear2 {
+    0% {
+        margin-top: 32px;
+        opacity: 0;
+    }
+    100% {
+        margin-top: 0px;
+        opacity: 1;
+    }
+}
+
 .introduce {
     text-align: center;
 
@@ -11,6 +22,9 @@
     background: linear-gradient(to right, #12d64f, #f8ef42);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+
+    animation-name: appear2;
+    animation-duration: 2s;
 }
 
 .bottom {
